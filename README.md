@@ -32,6 +32,26 @@ If you are on our team, follow these simple steps to copy this project to your c
    ```
 
 ---
+## JavaScript (JS)
+It is a programming language used to make websites interactive and dynamic.It allows developers to create dynamic content ,control multimedia and build complex web applications.
+### Why Learn JavaScript
+  - Creates interactive websites
+  - Validate forms
+  - Create animations
+  - Create games
+  - Build web applications
+### Features of JavaScript
+- It can be interpreted.
+- It is dynamically typed.
+- It is object-oriented.
+- It is event driven i.e responds to clicks, and keybord input.
+  ### How to get Started
+  1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "console' tab to start experimenting tag.
+  2. Create a file named 'script.js' and link it to your HTML using the '<script> tag.
+  3. Try an online sandbox like [CodePen] (https://codepen.io/) or [JSFiddle] (https://jsfiddle.net) to test snippets without setting up a local environment.
+  ### Useful Links
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  - https://www.javascripttutorial.net/
 ## Python
 
 **Python** is an open-source, high-level programming language that is widely loved by software developers for its clean layout and simple design rules. It was created to read almost like normal everyday English, which allows developers to focus on writing clean solutions instead of fighting complex code punctuation. Because it is highly versatile, easy to test, and runs seamlessly across Windows, Mac, and Linux systems, it is the perfect foundational language for beginners learning full-stack web engineering and computing logic.
@@ -79,11 +99,12 @@ If you are on our team, follow these simple steps to copy this project to your c
 ### Hellen Wamucii Njue (Python <img width="22" height="22" alt="Python" src="https://github.com/user-attachments/assets/fcbc5e87-c2cf-49c1-afeb-182dfa9e1d90" />)
 - Created our shared team repository on GitHub and invited all our members to collaborate.
 - Configured my local terminal settings and Git environment so everything syncs perfectly.
-- Wrote the main project templates for the README and contributor files for the team to use.
-
+- Wrote the main project templates for the README and contributor files for the team 
+-
 ### Florence Gitau (JavaScript <img width="22" height="22" alt="JavaScript" src="https://github.com/user-attachments/assets/013c9436-ebb8-49c3-a026-7b1c5583bf85" />)
-- Cloned the team repository
-- 
+- Cloned the team repository.
+- Tackeled the assigned part of the project.
+-
 
 ### Michael-yugi (Java <img width="22" height="22" alt="Java" src="https://github.com/user-attachments/assets/0a60d22f-864f-4865-a98e-3ef31a1028b4" />)
 - 
