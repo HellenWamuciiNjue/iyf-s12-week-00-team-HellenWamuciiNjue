@@ -32,6 +32,46 @@ If you are on our team, follow these simple steps to copy this project to your c
    ```
 
 ---
+## Python
+
+**Python** is an open-source, high-level programming language that is widely loved by software developers for its clean layout and simple design rules. It was created to read almost like normal everyday English, which allows developers to focus on writing clean solutions instead of fighting complex code punctuation. Because it is highly versatile, easy to test, and runs seamlessly across Windows, Mac, and Linux systems, it is the perfect foundational language for beginners learning full-stack web engineering and computing logic.
+
+### Why Students Should Use It
+- **Ultimate Readability:** Python drops messy brackets and uses clean line indentation, meaning your code looks neat and is far less frustrating to debug.
+- **Built for Automation:** It is the best tool for creating quick terminal scripts that take over tedious computer tasks like sorting big directories or renaming batches of school documents.
+- **AI and Web Powerhouse:** It is the industry-standard language for back-end web frameworks and artificial intelligence, meaning the skills you build are directly relevant to real software jobs.
+
+### How to Get Started: A 10-Step Terminal Navigation Guide
+1. Press your Windows key, type **Git Bash**, and hit Enter to launch your terminal window.
+2. Type `pwd` (print working directory) and press Enter to see exactly where your terminal is looking.
+3. Change directories into your specific assignment repository folder by running this exact command path:
+   ```bash
+   cd ~/OneDrive/Desktop/IYF-weekend_academy/season-12/tasks/iyf-s12-week-00-team-HellenWamuciiNjue
+   ```
+4. Verify your local environment and check your current branch by running: `git status`
+5. Generate a brand new, empty file meant for your code script by typing: `touch automation_script.py`
+6. Launch your editor to open that specific file by typing: `code automation_script.py`
+7. Inside your open VS Code window, type this clean, authentic Python validation logic:
+   ```python
+   # Trainee automation validation track
+   student_name = "Hellen Wamucii Njue"
+   current_step = 7
+   is_eager_to_learn = True
+
+   print(f"🚀 Execution Status: {student_name} is running Python code at Step {current_step}!")
+
+   if is_eager_to_learn:
+       print("🔥 Keep going! Terminal navigation is a developer superpower.")
+   ```
+8. Save your updates inside your editor by pressing **`Ctrl + S`** on your keyboard.
+9. Return to your open Git Bash window and run your code script using the Python engine: `python automation_script.py`
+10. Observe your terminal screen to confirm your custom confirmation message prints out live onto the console!
+
+### Useful Links
+- [Official Python Documentation Layout](https://python.org)
+- [Hellen Wamucii Njue GitHub Profile](https://github.com)
+- [Python Starter Guide for Beginners](https://python.org)
+---
 
 ## 📊 Team Contribution & Log Sheet
 *(This is where everyone logs the exact things they did for the project!)*
