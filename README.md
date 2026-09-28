@@ -2,6 +2,11 @@
 
 ## 👑 Team Lead
 - **Name:** Hellen Wamucii Njue
+- **GitHub Profile:** [@HellenWamuciiNjue](https://github.com)
+- **Date:** September 28, 2026
+
+## 📚 What is this project about?
+This is our shared team project for Week 00 of the **IYF Weekend Academy (Season 12)**. We are learning how to work together as a software team without messing up each other's code. 
 - **GitHub Profile:** [@HellenWamuciiNjue](https://github.com/HellenWamuciiNjue)
 - **Date:** September 28, 2026
 
@@ -24,6 +29,7 @@ If you are on our team, follow these simple steps to copy this project to your c
 
 1. Open your Git Bash terminal on your desktop and download the repository:
    ```bash
+   git clone https://github.com/iyf-s12-week-00-team-HellenWamuciiNjue.git
    git clone [https://github.com](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
    ```
 2. Move inside the new folder that was created:
@@ -32,6 +38,27 @@ If you are on our team, follow these simple steps to copy this project to your c
    ```
 
 ---
+## JavaScript (JS)
+It is a programming language used to make websites interactive and dynamic.It allows developers to create dynamic content ,control multimedia and build complex web applications.
+### Why Learn JavaScript
+  - Creates interactive websites
+  - Validate forms
+  - Create animations
+  - Create games
+  - Build web applications
+### Features of JavaScript
+- It can be interpreted.
+- It is dynamically typed.
+- It is object-oriented.
+- It is event driven i.e responds to clicks, and keybord input.
+  ### How to get Started
+  1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "console' tab to start experimenting tag.
+  2. Create a file named 'script.js' and link it to your HTML using the '<script> tag.
+  3. Try an online sandbox like [CodePen] (https://codepen.io/) or [JSFiddle] (https://jsfiddle.net) to test snippets without setting up a local environment.
+  ### Useful Links
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  - https://www.javascripttutorial.net/
+## Python
 
 ## ## Python
 
@@ -65,6 +92,52 @@ If you are on our team, follow these simple steps to copy this project to your c
        print("🔥 Keep going! Terminal navigation is a developer superpower.")
    ```
 8. Save your updates inside your editor by pressing **`Ctrl + S`** on your keyboard.
+9. Return to your open Git Bash window and run your code script using the Python engine: `python automation_script.py`
+10. Observe your terminal screen to confirm your custom confirmation message prints out live onto the console!
+
+### Useful Links
+- [Official Python Documentation Layout](https://python.org)
+- [Hellen Wamucii Njue GitHub Profile](https://github.com)
+- [Python Starter Guide for Beginners](https://python.org)
+---
+
+## Java
+
+Java is a popular, high-level programming language used to build
+applications for computers, mobile devices, websites and other systems.
+It is known for being portable because Java programs can run on different operating systems using the Java Virtual Machine (JVM) and it is designed to have a few implementation dependecies as possible.
+Java is intended to let programmers write once run anywhere(WORA), meaning compiled java caode can run on all platforms that support java without the need to recompile.
+Java applications are usually compiled to bytecode thata can run on any JVM regardless of the underlying computer architecture.
+
+### Features of Java
+
+- Java is object-oriented.
+- It is platform-independent.
+- It is widely used for Android and enterprise applications.
+- It has strong security features.
+- It supports automatic memory management.
+
+### Types of Java
+
+- Java SE (Standard Edition): Used for building desktop software, command-line tools and standalone applications
+- Java EE (Enterprise Edition / Jakarta EE): used for E-commerce websites, banking software and massive corporate web networks.
+- Java ME (Micro Edition): used for Embedded systems, older mobile devices and Internet of Things (IoT) hardware. 
+- JavaFX: Used for high-performance desktop applications and interactive rich internet applications with sleek visual designs.
+
+### Principle of Java
+
+- Single Responsibility Principle (SRP): A class should have only one reason to change, meaning it should perform only a single well-defined job or responsibility.
+- Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification, allowing new functionality to be added without rewriting existing code.
+- Liskov Substitution Principle (LSP): Objects of a superclass should be replaceable with objects of a subclass without breaking the application's correctness.
+- Interface Segregation Principle (ISP): Clients should not be forced to depend upon or implement interfaces and methods they do not use; smaller, focused interfaces are preferred.
+- Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules; both should depend on abstractions (like interfaces) rather than concrete implementations.
+
+### Uses of Java
+
+- Enterprise softwares: it powers complex back end architecture, cloud service and heavy duty banking application.
+- Mobile development: serves as a foundational langauage for building android application.
+- Data and web tools: drives data processing engines and event streaming infrastructure like Apache Hadoop.
+- consumer softwares: used to build prominent application and desktop tools.
 9. **Run Code Directly in VS Code:** Look at the top right-hand corner of your VS Code window and click the small **▶️ (Play Button)** icon.
 10. **Observe Output Inline:** VS Code will automatically pop open its own built-in terminal panel at the bottom of your screen and instantly print out your script results right beneath your code rows!
 
@@ -102,6 +175,23 @@ If you are on our team, follow these simple steps to copy this project to your c
 ## 📊 Team Contribution & Log Sheet
 *(This is where everyone logs the exact things they did for the project!)*
 
+### Hellen Wamucii Njue (Python <img width="22" height="22" alt="Python" src="https://github.com/user-attachments/assets/fcbc5e87-c2cf-49c1-afeb-182dfa9e1d90" />)
+- Created our shared team repository on GitHub and invited all our members to collaborate.
+- Configured my local terminal settings and Git environment so everything syncs perfectly.
+- Wrote the main project templates for the README and contributor files for the team 
+-
+### Florence Gitau (JavaScript <img width="22" height="22" alt="JavaScript" src="https://github.com/user-attachments/assets/013c9436-ebb8-49c3-a026-7b1c5583bf85" />)
+- Cloned the team repository.
+- Tackeled the assigned part of the project.
+-
+
+### Michael-yugi (Java <img width="22" height="22" alt="Java" src="https://github.com/user-attachments/assets/0a60d22f-864f-4865-a98e-3ef31a1028b4" />)
+- 
+- 
+
+### Jane Gathoni (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" /> or HTML/CSS <img width="22" height="22" alt="HTML/CSS" src="https://github.com/user-attachments/assets/daf902d0-222c-4f8f-aa7c-c1390131d4a9" />)
+- 
+-
 ### Hellen Wamucii Njue (Python)
 - Created our shared team repository on GitHub and invited all our members to collaborate.
 - Configured my local terminal settings and Git environment so everything syncs perfectly.
