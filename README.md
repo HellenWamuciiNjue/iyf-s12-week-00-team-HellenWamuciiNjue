@@ -3,7 +3,7 @@
 ## 👑 Team Lead
 - **Name:** Hellen Wamucii Njue
 - **GitHub Profile:** [@HellenWamuciiNjue](https://github.com)
-- **Date:** September 24, 2026
+- **Date:** September 28, 2026
 
 ## 📚 What is this project about?
 This is our shared team project for Week 00 of the **IYF Weekend Academy (Season 12)**. We are learning how to work together as a software team without messing up each other's code. 
