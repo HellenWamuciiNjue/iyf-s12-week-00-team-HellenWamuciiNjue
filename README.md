@@ -7,6 +7,11 @@
 
 ## 📚 What is this project about?
 This is our shared team project for Week 00 of the **IYF Weekend Academy (Season 12)**. We are learning how to work together as a software team without messing up each other's code. 
+- **GitHub Profile:** [@HellenWamuciiNjue](https://github.com/HellenWamuciiNjue)
+- **Date:** September 28, 2026
+
+## 📚 What is this project about?
+This is our shared team project for Week 00 of the **IYF Weekend Academy (Season 12)**. We are learning how to work together as a software team without messing up each other's code.
 
 Our group decided to build a simple knowledge base focused on a **Programming Languages Overview**. Each person on the team is picking a language, creating their own Git branch, and adding their research notes directly into this file!
 
@@ -25,6 +30,7 @@ If you are on our team, follow these simple steps to copy this project to your c
 1. Open your Git Bash terminal on your desktop and download the repository:
    ```bash
    git clone https://github.com/iyf-s12-week-00-team-HellenWamuciiNjue.git
+   git clone [https://github.com](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
    ```
 2. Move inside the new folder that was created:
    ```bash
@@ -53,6 +59,8 @@ It is a programming language used to make websites interactive and dynamic.It al
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
   - https://www.javascripttutorial.net/
 ## Python
+
+## ## Python
 
 **Python** is an open-source, high-level programming language that is widely loved by software developers for its clean layout and simple design rules. It was created to read almost like normal everyday English, which allows developers to focus on writing clean solutions instead of fighting complex code punctuation. Because it is highly versatile, easy to test, and runs seamlessly across Windows, Mac, and Linux systems, it is the perfect foundational language for beginners learning full-stack web engineering and computing logic.
 
@@ -130,6 +138,39 @@ Java applications are usually compiled to bytecode thata can run on any JVM rega
 - Mobile development: serves as a foundational langauage for building android application.
 - Data and web tools: drives data processing engines and event streaming infrastructure like Apache Hadoop.
 - consumer softwares: used to build prominent application and desktop tools.
+9. **Run Code Directly in VS Code:** Look at the top right-hand corner of your VS Code window and click the small **▶️ (Play Button)** icon.
+10. **Observe Output Inline:** VS Code will automatically pop open its own built-in terminal panel at the bottom of your screen and instantly print out your script results right beneath your code rows!
+
+### Useful Links
+- [Official Python Documentation Layout](https://python.org)
+- [Hellen Wamucii Njue GitHub Profile](https://github.com/HellenWamuciiNjue)
+- [Python Starter Guide for Beginners](https://python.org)
+
+---
+
+## ## JavaScript
+
+**JavaScript** is a powerful, lightweight scripting language that drives the interactive features of the modern world wide web. It acts as the core engine inside web browsers, allowing full-stack web engineers to build dynamic interfaces, handle live user interface actions, and create seamless responsive animations inline across any website layout.
+
+### Why Students Should Use It
+- **Instant Browser Execution:** You do not need complex installation engines or pathways; JavaScript runs natively inside any browser window out of the box.
+- **Full-Stack Power:** Learning JavaScript allows you to build front-end web layouts using HTML/CSS and run backend server logic using Node.js environments.
+- **Massive Modern Demand:** Every single interactive web interface on the internet relies on JavaScript framework tracks, making it a critical skill for real-world software positions.
+
+### How to Get Started
+1. Open your project workspace folder inside your VS Code text editor layout.
+2. Create a new file tracker named `script.js` directly within your project directory tree.
+3. Link it to an HTML layout configuration file or simply type a clean testing console message line:
+   ```javascript
+   console.log("JavaScript engine is running successfully!");
+   ```
+4. Run your file layout directly using the VS Code debugger configurations or within your local terminal.
+
+### Useful Links
+- [MDN Web Docs JavaScript Learning Hub](https://mozilla.org)
+- [W3Schools Free JavaScript Tutorial Tracks](https://w3schools.com)
+
+---
 
 ## 📊 Team Contribution & Log Sheet
 *(This is where everyone logs the exact things they did for the project!)*
@@ -151,3 +192,19 @@ Java applications are usually compiled to bytecode thata can run on any JVM rega
 ### Jane Gathoni (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" /> or HTML/CSS <img width="22" height="22" alt="HTML/CSS" src="https://github.com/user-attachments/assets/daf902d0-222c-4f8f-aa7c-c1390131d4a9" />)
 - 
 -
+### Hellen Wamucii Njue (Python)
+- Created our shared team repository on GitHub and invited all our members to collaborate.
+- Configured my local terminal settings and Git environment so everything syncs perfectly.
+- Wrote the main project templates for the README and contributor files for the team to use.
+
+### Florence Gitau (JavaScript)
+- Cloned the team repository to my local developer workspace folder.
+- Successfully created a personal branch to research and push my JavaScript language parameters.
+
+### Michael-yugi (Java)
+- 
+- 
+
+### Jane Gathoni
+- 
+- 
