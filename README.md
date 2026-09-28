@@ -24,7 +24,7 @@ If you are on our team, follow these simple steps to copy this project to your c
 
 1. Open your Git Bash terminal on your desktop and download the repository:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
    ```
 2. Move inside the new folder that was created:
    ```bash
@@ -109,7 +109,7 @@ If you are on our team, follow these simple steps to copy this project to your c
 
 ### Florence Gitau (JavaScript)
 - Cloned the team repository to my local developer workspace folder.
-- Successfully created a personal branch to research and push her JavaScript language parameters.
+- Successfully created a personal branch to research and push my JavaScript language parameters.
 
 ### Michael-yugi (Java)
 - 
