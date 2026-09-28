@@ -42,7 +42,7 @@ If you are on our team, follow these simple steps to copy this project to your c
 - Wrote the main project templates for the README and contributor files for the team to use.
 
 ### Florence Gitau (JavaScript <img width="22" height="22" alt="JavaScript" src="https://github.com/user-attachments/assets/013c9436-ebb8-49c3-a026-7b1c5583bf85" />)
-- 
+- Cloned the team repository
 - 
 
 ### Michael-yugi (Java <img width="22" height="22" alt="Java" src="https://github.com/user-attachments/assets/0a60d22f-864f-4865-a98e-3ef31a1028b4" />)
