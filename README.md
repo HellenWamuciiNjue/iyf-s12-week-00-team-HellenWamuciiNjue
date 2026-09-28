@@ -40,6 +40,11 @@ It is a programming language used to make websites interactive and dynamic.It al
   - Create animations
   - Create games
   - Build web applications
+### Features of JavaScript
+- It can be interpreted.
+- It is dynamically typed.
+- It is object-oriented.
+- It is event driven i.e responds to clicks, and keybord input.
   ### How to get Started
   1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "console' tab to start experimenting tag.
   2. Create a file named 'script.js' and link it to your HTML using the '<script> tag.
