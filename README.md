@@ -62,7 +62,8 @@ It is a programming language used to make websites interactive and dynamic.It al
 - Wrote the main project templates for the README and contributor files for the team to use.
 
 ### Florence Gitau
-- Cloned repository
+- Cloned repository as indicated.
+- Tackeled the assigned part of the project.
 -
 
 ### Michael-yugi
