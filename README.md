@@ -42,8 +42,8 @@ If you are on our team, follow these simple steps to copy this project to your c
 - Wrote the main project templates for the README and contributor files for the team to use.
 
 ### Florence Gitau
-- 
-- 
+- Cloned repository
+-
 
 ### Michael-yugi
 - 
