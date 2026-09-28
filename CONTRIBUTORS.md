@@ -7,7 +7,7 @@
 | :--- | :--- | :--- | :--- |
 | Hellen Wamucii Njue | [@HellenWamuciiNjue](https://github.com/HellenWamuciiNjue) | Team Lead / Engineer | Setup configuration tracking, Multi-branch scoping, GFM layout compilation |
 | Jane Gathoni  | [@janneynganga3-ux](https://github.com/janneynganga3-ux) | Team Member / Engineer | Joined team repository tracking, verified environment configurations |
-| Ivy Harriet Isamisi | [@ivyharriet2003-sudo](https://github.com) | Team Member / Engineer | Joined team repository tracking, verified environment configurations |
+| Florence Gitau | [@gitau0076-cpu](https://github.com/gitau0076-cpu) | Team Member / Engineer | Joined team repository tracking, verified environment configurations |
 
 
 
@@ -20,5 +20,5 @@
 ### Jane Gathoni
 - Successfully configured team repository access and initialized local repository workspace.
 
-### Ivy Harriet Isamisi
+### Florence Gitau
 - Successfully configured team repository access and initialized local repository workspace.
