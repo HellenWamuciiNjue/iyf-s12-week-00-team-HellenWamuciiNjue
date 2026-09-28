@@ -36,19 +36,19 @@ If you are on our team, follow these simple steps to copy this project to your c
 ## 📊 Team Contribution & Log Sheet
 *(This is where everyone logs the exact things they did for the project!)*
 
-### Hellen Wamucii Njue
+### Hellen Wamucii Njue (Python <img width="22" height="22" alt="Python" src="https://github.com/user-attachments/assets/fcbc5e87-c2cf-49c1-afeb-182dfa9e1d90" />)
 - Created our shared team repository on GitHub and invited all our members to collaborate.
 - Configured my local terminal settings and Git environment so everything syncs perfectly.
 - Wrote the main project templates for the README and contributor files for the team to use.
 
-### Florence Gitau
+### Florence Gitau (JavaScript <img width="22" height="22" alt="JavaScript" src="https://github.com/user-attachments/assets/013c9436-ebb8-49c3-a026-7b1c5583bf85" />)
 - 
 - 
 
-### Michael-yugi
+### Michael-yugi (Java <img width="22" height="22" alt="Java" src="https://github.com/user-attachments/assets/0a60d22f-864f-4865-a98e-3ef31a1028b4" />)
 - 
 - 
 
-### Jane Gathoni
+### Jane Gathoni (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" /> or HTML/CSS <img width="22" height="22" alt="HTML/CSS" src="https://github.com/user-attachments/assets/daf902d0-222c-4f8f-aa7c-c1390131d4a9" />)
 - 
 - 
