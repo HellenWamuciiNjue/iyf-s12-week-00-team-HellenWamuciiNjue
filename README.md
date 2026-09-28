@@ -145,31 +145,7 @@ Java applications are usually compiled to bytecode thata can run on any JVM rega
 - [Official Python Documentation Layout](https://python.org)
 - [Hellen Wamucii Njue GitHub Profile](https://github.com/HellenWamuciiNjue)
 - [Python Starter Guide for Beginners](https://python.org)
-
----
-
-## ## JavaScript
-
-**JavaScript** is a powerful, lightweight scripting language that drives the interactive features of the modern world wide web. It acts as the core engine inside web browsers, allowing full-stack web engineers to build dynamic interfaces, handle live user interface actions, and create seamless responsive animations inline across any website layout.
-
-### Why Students Should Use It
-- **Instant Browser Execution:** You do not need complex installation engines or pathways; JavaScript runs natively inside any browser window out of the box.
-- **Full-Stack Power:** Learning JavaScript allows you to build front-end web layouts using HTML/CSS and run backend server logic using Node.js environments.
-- **Massive Modern Demand:** Every single interactive web interface on the internet relies on JavaScript framework tracks, making it a critical skill for real-world software positions.
-
-### How to Get Started
-1. Open your project workspace folder inside your VS Code text editor layout.
-2. Create a new file tracker named `script.js` directly within your project directory tree.
-3. Link it to an HTML layout configuration file or simply type a clean testing console message line:
-   ```javascript
-   console.log("JavaScript engine is running successfully!");
-   ```
-4. Run your file layout directly using the VS Code debugger configurations or within your local terminal.
-
-### Useful Links
-- [MDN Web Docs JavaScript Learning Hub](https://mozilla.org)
-- [W3Schools Free JavaScript Tutorial Tracks](https://w3schools.com)
-
+- 
 ---
 
 ## 📊 Team Contribution & Log Sheet
