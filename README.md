@@ -32,6 +32,21 @@ If you are on our team, follow these simple steps to copy this project to your c
    ```
 
 ---
+## JavaScript (JS)
+It is a programming language used to make websites interactive and dynamic.It allows developers to create dynamic content ,control multimedia and build complex web applications.
+### Why Learn JavaScript
+  - Creates interactive websites
+  - Validate forms
+  - Create animations
+  - Create games
+  - Build web applications
+  ### How to get Started
+  1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "console' tab to start experimenting tag.
+  2. Create a file named 'script.js' and link it to your HTML using the '<script> tag.
+  3. Try an online sandbox like [CodePen] (https://codepen.io/) or [JSFiddle] (https://jsfiddle.net) to test snippets without setting up a local environment.
+  ### Useful Links
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  - https://www.javascripttutorial.net/
 
 ## 📊 Team Contribution & Log Sheet
 *(This is where everyone logs the exact things they did for the project!)*
