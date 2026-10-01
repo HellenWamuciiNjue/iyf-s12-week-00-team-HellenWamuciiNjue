@@ -96,9 +96,9 @@ It is a programming language used to make websites interactive and dynamic.It al
 10. Observe your terminal screen to confirm your custom confirmation message prints out live onto the console!
 
 ### Useful Links
-- [Official Python Documentation Layout]([https://python.org])(https://www.python.org/doc/)
-- [Hellen Wamucii Njue GitHub Profile]([https://github.com])(https://github.com/HellenWamuciiNjue)
-- [Python Starter Guide for Beginners]([https://python.org])(https://wiki.python.org/moin/BeginnersGuide)
+- [Official Python Documentation Layout](https://python.org)
+- [Hellen Wamucii Njue GitHub Profile](https://github.com)
+- [https://wiki.python.org/moin/BeginnersGuide](https://python.org)
 ---
 
 ## Java
@@ -142,10 +142,9 @@ Java applications are usually compiled to bytecode thata can run on any JVM rega
 10. **Observe Output Inline:** VS Code will automatically pop open its own built-in terminal panel at the bottom of your screen and instantly print out your script results right beneath your code rows!
 
 ### Useful Links
-- [Official Python Documentation Layout](https://python.org)
-- [Hellen Wamucii Njue GitHub Profile](https://github.com/HellenWamuciiNjue)
-- [Python Starter Guide for Beginners](https://python.org)
-- 
+- [https://www.oracle.com/java/](https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.oracle.com/java/&ved=2ahUKEwi89vqixJmXAxUIQ_EDHf6nMF0Qy_kOegoIAggACAAIDRAD&opi=89978449&cd&psig=AOvVaw1f-nlB0bqpP77qYieLsZV2&ust=1790968650406000)
+- [https://docs.oracle.com/javase/tutorial/](https://www.google.com/url?sa=i&source=web&rct=j&url=https://docs.oracle.com/javase/tutorial/&ved=2ahUKEwi89vqixJmXAxUIQ_EDHf6nMF0Qy_kOegoIAggACAAIDRAG&opi=89978449&cd&psig=AOvVaw1f-nlB0bqpP77qYieLsZV2&ust=1790968650406000)
+- [https://docs.oracle.com/javase/tutorial/java/index.html](https://docs.oracle.com/javase/tutorial/java/index.html)
 ---
 
 ## 📊 Team Contribution & Log Sheet
