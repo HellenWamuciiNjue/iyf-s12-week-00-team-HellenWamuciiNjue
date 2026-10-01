@@ -96,9 +96,9 @@ It is a programming language used to make websites interactive and dynamic.It al
 10. Observe your terminal screen to confirm your custom confirmation message prints out live onto the console!
 
 ### Useful Links
-- [Official Python Documentation Layout](https://python.org)
-- [Hellen Wamucii Njue GitHub Profile](https://github.com)
-- [Python Starter Guide for Beginners](https://python.org)
+- [Official Python Documentation Layout]([https://python.org])(https://www.python.org/doc/)
+- [Hellen Wamucii Njue GitHub Profile]([https://github.com](https://github.com/HellenWamuciiNjue))
+- [Python Starter Guide for Beginners]([https://wiki.python.org/moin/BeginnersGuide])
 ---
 
 ## Java
@@ -166,21 +166,5 @@ Java applications are usually compiled to bytecode thata can run on any JVM rega
 - 
 
 ### Jane Gathoni (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" /> or HTML/CSS <img width="22" height="22" alt="HTML/CSS" src="https://github.com/user-attachments/assets/daf902d0-222c-4f8f-aa7c-c1390131d4a9" />)
-- 
--
-### Hellen Wamucii Njue (Python)
-- Created our shared team repository on GitHub and invited all our members to collaborate.
-- Configured my local terminal settings and Git environment so everything syncs perfectly.
-- Wrote the main project templates for the README and contributor files for the team to use.
-
-### Florence Gitau (JavaScript)
-- Cloned the team repository to my local developer workspace folder.
-- Successfully created a personal branch to research and push my JavaScript language parameters.
-
-### Michael-yugi (Java)
-- 
-- 
-
-### Jane Gathoni
 - 
 - 
