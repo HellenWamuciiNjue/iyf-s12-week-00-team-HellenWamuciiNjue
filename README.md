@@ -97,8 +97,8 @@ It is a programming language used to make websites interactive and dynamic.It al
 
 ### Useful Links
 - [Official Python Documentation Layout]([https://python.org])(https://www.python.org/doc/)
-- [Hellen Wamucii Njue GitHub Profile]([https://github.com](https://github.com/HellenWamuciiNjue))
-- [Python Starter Guide for Beginners]([https://wiki.python.org/moin/BeginnersGuide])
+- [Hellen Wamucii Njue GitHub Profile]([https://github.com])(https://github.com/HellenWamuciiNjue)
+- [Python Starter Guide for Beginners]([https://python.org])(https://wiki.python.org/moin/BeginnersGuide)
 ---
 
 ## Java
