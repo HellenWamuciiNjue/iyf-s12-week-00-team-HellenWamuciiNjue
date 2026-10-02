@@ -58,9 +58,8 @@ It is a programming language used to make websites interactive and dynamic.It al
   ### Useful Links
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
   - https://www.javascripttutorial.net/
-## Python
 
-## ## Python
+## Python
 
 **Python** is an open-source, high-level programming language that is widely loved by software developers for its clean layout and simple design rules. It was created to read almost like normal everyday English, which allows developers to focus on writing clean solutions instead of fighting complex code punctuation. Because it is highly versatile, easy to test, and runs seamlessly across Windows, Mac, and Linux systems, it is the perfect foundational language for beginners learning full-stack web engineering and computing logic.
 
@@ -157,12 +156,12 @@ Java applications are usually compiled to bytecode thata can run on any JVM rega
 -
 ### Florence Gitau (JavaScript <img width="22" height="22" alt="JavaScript" src="https://github.com/user-attachments/assets/013c9436-ebb8-49c3-a026-7b1c5583bf85" />)
 - Cloned the team repository.
-- Tackeled the assigned part of the project.
+- Tackled the assigned part of the project.
 -
 
 ### Michael-yugi (Java <img width="22" height="22" alt="Java" src="https://github.com/user-attachments/assets/0a60d22f-864f-4865-a98e-3ef31a1028b4" />)
-- 
-- 
+- Tackled the assigned part of the project.
+- Helped resolve some of the issues raised in the group
 
 ### Jane Gathoni (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" /> or HTML/CSS <img width="22" height="22" alt="HTML/CSS" src="https://github.com/user-attachments/assets/daf902d0-222c-4f8f-aa7c-c1390131d4a9" />)
 - 
