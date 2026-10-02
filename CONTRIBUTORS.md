@@ -22,3 +22,5 @@
 
 ### Florence Gitau
 - Successfully configured team repository access and initialized local repository workspace.
+- Clonned group repository.
+- Completed my assigned part of the assignment.
