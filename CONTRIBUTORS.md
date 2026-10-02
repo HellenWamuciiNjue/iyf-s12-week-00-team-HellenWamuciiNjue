@@ -25,6 +25,6 @@
 - Clonned group repository.
 - Completed my assigned part of the assignment.
 
-  ### Michael Yugi
+### Michael Yugi
   - Successfully configured team repository access and initialized local repository workspace.
   - Completed my assigned part of the assignment.
