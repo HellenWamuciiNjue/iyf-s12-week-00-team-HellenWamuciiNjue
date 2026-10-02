@@ -144,6 +144,34 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 - [https://www.oracle.com/java/](https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.oracle.com/java/&ved=2ahUKEwi89vqixJmXAxUIQ_EDHf6nMF0Qy_kOegoIAggACAAIDRAD&opi=89978449&cd&psig=AOvVaw1f-nlB0bqpP77qYieLsZV2&ust=1790968650406000)
 - [https://docs.oracle.com/javase/tutorial/](https://www.google.com/url?sa=i&source=web&rct=j&url=https://docs.oracle.com/javase/tutorial/&ved=2ahUKEwi89vqixJmXAxUIQ_EDHf6nMF0Qy_kOegoIAggACAAIDRAG&opi=89978449&cd&psig=AOvVaw1f-nlB0bqpP77qYieLsZV2&ust=1790968650406000)
 - [https://docs.oracle.com/javase/tutorial/java/index.html](https://docs.oracle.com/javase/tutorial/java/index.html)
+
+## C++
+**C++** Is a general-purpose programming language known for its high performance, efficiency, and control over system resources. It allows developers to build operating systems, games, high-performance applications, and software that requires close interaction with hardware.
+
+### Why one Should Consider Learning C++
+- Develop high-performance applications.
+- Build game engines and graphics software.
+- Create system software and operating systems.
+- Work with embedded systems.
+- Master memory management and low-level programming.
+
+### Features of C++
+- It is statically typed.
+- It is object-oriented.
+- It is compiled.
+- It supports multiple paradigms (~procedural, object-oriented, and generic programming~).
+- It provides direct memory access through pointers.
+
+### How to Get Started
+- Install a C++ compiler such as GCC, Clang, or Microsoft Visual C++, or use an IDE like Visual Studio, Code::Blocks, or VS Code with a C++ extension.
+- Create a file named main.cpp and write your first program (for example, a simple “Hello, World!”).
+- Try an online compiler like Compiler Explorer or OnlineGDB to test code without setting up a local environment.
+
+### Useful Links
+- [C++ Reference](https://en.cppreference.com/)
+- [Learn C++](https://www.learncpp.com/)
+- [ISO C++](https://isocpp.org/)
+
 ---
 
 ## 📊 Team Contribution & Log Sheet
@@ -162,6 +190,11 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 - Tackled the assigned part of the project.
 - Helped resolve some of the issues raised in the group
 
-### Jane Gathoni (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" /> or HTML/CSS <img width="22" height="22" alt="HTML/CSS" src="https://github.com/user-attachments/assets/daf902d0-222c-4f8f-aa7c-c1390131d4a9" />)
+### Nicodemus Muriuki (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" />)
+- Cloned the team repo.
+- Worked on the C++ part of the assignment.
+- Review colleagues and solved issues.
+- 
+### Jane Gathoni (HTML/CSS <img width="22" height="22" alt="HTML/CSS" src="https://github.com/user-attachments/assets/daf902d0-222c-4f8f-aa7c-c1390131d4a9" />)
 - 
 - 
