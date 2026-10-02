@@ -146,6 +146,7 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 - [https://docs.oracle.com/javase/tutorial/java/index.html](https://docs.oracle.com/javase/tutorial/java/index.html)
 
 ## C++
+
 **C++** Is a general-purpose programming language known for its high performance, efficiency, and control over system resources. It allows developers to build operating systems, games, high-performance applications, and software that requires close interaction with hardware.
 
 ### Why one Should Consider Learning C++
@@ -163,9 +164,9 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 - It provides direct memory access through pointers.
 
 ### How to Get Started
-- Install a C++ compiler such as GCC, Clang, or Microsoft Visual C++, or use an IDE like Visual Studio, Code::Blocks, or VS Code with a C++ extension.
-- Create a file named main.cpp and write your first program (for example, a simple “Hello, World!”).
-- Try an online compiler like Compiler Explorer or OnlineGDB to test code without setting up a local environment.
+1. Install a C++ compiler such as GCC, Clang, or Microsoft Visual C++, or use an IDE like Visual Studio, Code::Blocks, or VS Code with a C++ extension.
+2. Create a file named main.cpp and write your first program (for example, a simple “Hello, World!”).
+3. Try an online compiler like Compiler Explorer or OnlineGDB to test code without setting up a local environment.
 
 ### Useful Links
 - [C++ Reference](https://en.cppreference.com/)
