@@ -133,7 +133,7 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 
 ### Uses of Java
 
-- Enterprise softwares: it powers complex back end architecture, cloud service and heavy duty banking application.
+- Enterprise software: it powers complex back end architecture, cloud service and heavy duty banking application.
 - Mobile development: serves as a foundational langauage for building android application.
 - Data and web tools: drives data processing engines and event streaming infrastructure like Apache Hadoop.
 - consumer softwares: used to build prominent application and desktop tools.
