@@ -105,7 +105,7 @@ It is a programming language used to make websites interactive and dynamic.It al
 Java is a popular, high-level programming language used to build
 applications for computers, mobile devices, websites and other systems.
 It is known for being portable because Java programs can run on different operating systems using the Java Virtual Machine (JVM), and it is designed to have as few implementation dependencies as possible.
-Java is intended to let programmers write once, run anywhere(WORA), meaning compiled Java code can run on all platforms that support java without the need to recompile.
+Java is intended to let programmers write once, run anywhere(WORA), meaning compiled Java code can run on all platforms that support Java without the need to recompile.
 Java applications are usually compiled to bytecode that can run on any JVM regardless of the underlying computer architecture.
 
 ### Features of Java
@@ -133,10 +133,10 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 
 ### Uses of Java
 
-- Enterprise software: it powers complex back end architecture, cloud service and heavy duty banking application.
-- Mobile development: serves as a foundational langauage for building android application.
+- Enterprise software: it powers complex back-end architecture, cloud services, and heavy-duty banking applications.
+- Mobile development: serves as a foundational language for building Android applications.
 - Data and web tools: drives data processing engines and event streaming infrastructure like Apache Hadoop.
-- consumer softwares: used to build prominent application and desktop tools.
+- Consumer software: used to build prominent applications and desktop tools.
 9. **Run Code Directly in VS Code:** Look at the top right-hand corner of your VS Code window and click the small **▶️ (Play Button)** icon.
 10. **Observe Output Inline:** VS Code will automatically pop open its own built-in terminal panel at the bottom of your screen and instantly print out your script results right beneath your code rows!
 
