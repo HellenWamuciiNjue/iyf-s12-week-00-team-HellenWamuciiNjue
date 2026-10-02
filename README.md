@@ -106,7 +106,7 @@ Java is a popular, high-level programming language used to build
 applications for computers, mobile devices, websites and other systems.
 It is known for being portable because Java programs can run on different operating systems using the Java Virtual Machine (JVM) and it is designed to have a few implementation dependecies as possible.
 Java is intended to let programmers write once run anywhere(WORA), meaning compiled java caode can run on all platforms that support java without the need to recompile.
-Java applications are usually compiled to bytecode thata can run on any JVM regardless of the underlying computer architecture.
+Java applications are usually compiled to bytecode that can run on any JVM regardless of the underlying computer architecture.
 
 ### Features of Java
 
