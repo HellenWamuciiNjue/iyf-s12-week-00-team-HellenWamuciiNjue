@@ -9,6 +9,7 @@
 | Jane Gathoni  | [@janneynganga3-ux](https://github.com/janneynganga3-ux) | Team Member / Engineer | Joined team repository tracking, verified environment configurations |
 | Florence Gitau | [@gitau0076-cpu](https://github.com/gitau0076-cpu) | Team Member / Engineer | Joined team repository tracking, verified environment configurations |
 | Michael Yugi | [@michael-yugi](https://github.com/michael-yugi) | Team member/ Engineer | Joined team repository tracking, verified environment configurations |
+| Nicodemus Muriuki | [@RealNicdee](https://github.com/RealNicdee) | Team Member / Engineer | Joined team repository tracking, verified environment configurations |
 
 
 ## Structural Breakdown Log
@@ -28,3 +29,8 @@
 ### Michael Yugi
   - Successfully configured team repository access and initialized local repository workspace.
   - Completed my assigned part of the assignment.
+
+### Nicodemus Muriuki
+- Successfully configured team repository access and initialized local repository workspace.
+- Enhanced and improved the C++ section in the README.
+- Fixed formatting issues in the CONTRIBUTORS.md file.
