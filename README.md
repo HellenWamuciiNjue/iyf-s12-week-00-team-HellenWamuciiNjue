@@ -39,7 +39,7 @@ If you are on our team, follow these simple steps to copy this project to your c
 
 ---
 ## JavaScript (JS)
-It is a programming language used to make websites interactive and dynamic.It allows developers to create dynamic content ,control multimedia and build complex web applications.
+It is a programming language used to make websites interactive and dynamic. It allows developers to create dynamic content, control multimedia and build complex web applications.
 ### Why Learn JavaScript
   - Creates interactive websites
   - Validate forms
