@@ -32,7 +32,7 @@ If you are on our team, follow these simple steps to copy this project to your c
    git clone https://github.com/iyf-s12-week-00-team-HellenWamuciiNjue.git
    git clone [https://github.com](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
    ```
-2. Move inside the new folder that was created:
+2. Move into the new folder that was created:
    ```bash
    cd iyf-s12-week-00-team-HellenWamuciiNjue
    ```
@@ -50,7 +50,7 @@ It is a programming language used to make websites interactive and dynamic. It a
 - It can be interpreted.
 - It is dynamically typed.
 - It is object-oriented.
-- It is event-driven, i.e responds to clicks, and keybord input.
+- It is event-driven, i.e responds to clicks and keybord input.
   ### How to get Started
   1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "console' tab to start experimenting tag.
   2. Create a file named 'script.js' and link it to your HTML using the '<script> tag.
