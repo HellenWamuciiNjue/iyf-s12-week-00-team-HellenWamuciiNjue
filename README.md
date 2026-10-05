@@ -53,7 +53,7 @@ It is a programming language used to make websites interactive and dynamic. It a
 - It is event-driven, i.e responds to clicks and keyboard input.
   ### How to get started
   1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "Console " tab to start experimenting tag.
-  2. Create a file named 'script.js' and link it to your HTML using the '<script> tag.
+  2. Create a file named 'script.js' and link it to your HTML using the <script> tag.
   3. Try an online sandbox like [CodePen] (https://codepen.io/) or [JSFiddle] (https://jsfiddle.net) to test snippets without setting up a local environment.
   ### Useful Links
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -120,7 +120,7 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 
 - Java SE (Standard Edition): Used for building desktop software, command-line tools and standalone applications
 - Java EE (Enterprise Edition / Jakarta EE): Used for E-commerce websites, banking software and massive corporate web networks.
-- Java ME (Micro Edition): used for embedded systems, older mobile devices and Internet of Things (IoT) hardware. 
+- Java ME (Micro Edition): Used for embedded systems, older mobile devices and Internet of Things (IoT) hardware. 
 - JavaFX: Used for high-performance desktop applications and interactive rich internet applications with sleek visual designs.
 
 ### Principles of Java
