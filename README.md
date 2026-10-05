@@ -52,7 +52,7 @@ It is a programming language used to make websites interactive and dynamic. It a
 - It is object-oriented.
 - It is event-driven, i.e responds to clicks and keybord input.
   ### How to get Started
-  1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "console' tab to start experimenting tag.
+  1. Open your browser's **Developer Tools** (press 'F12' or ctrl+ Shift+1) and click the "Console " tab to start experimenting tag.
   2. Create a file named 'script.js' and link it to your HTML using the '<script> tag.
   3. Try an online sandbox like [CodePen] (https://codepen.io/) or [JSFiddle] (https://jsfiddle.net) to test snippets without setting up a local environment.
   ### Useful Links
