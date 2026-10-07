@@ -43,7 +43,7 @@ It is a programming language used to make websites interactive and dynamic. It a
 ### Why Learn JavaScript
   - Creates interactive websites
   - Validates forms
-  - Create animations
+  - Creates animations
   - Create games
   - Build web applications
 ### Features of JavaScript
