@@ -45,7 +45,7 @@ It is a programming language used to make websites interactive and dynamic. It a
   - Validates forms
   - Creates animations
   - Creates games
-  - Build web applications
+  - Builds web applications
 ### Features of JavaScript
 - It can be interpreted.
 - It is dynamically typed.
