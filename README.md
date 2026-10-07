@@ -188,8 +188,9 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 - Tackled the assigned part of the project.
 
 ### Michael-yugi (Java <img width="22" height="22" alt="Java" src="https://github.com/user-attachments/assets/0a60d22f-864f-4865-a98e-3ef31a1028b4" />)
-- Tackled the assigned part of the project.
-- Helped resolve some of the issues raised in the group
+- Tackled the assigned part of the project in Java.
+- Helped resolve some of the issues raised in the group.
+- Cloned the team repo.
 
 ### Nicodemus Muriuki (C++ <img width="22" height="22" alt="C++" src="https://github.com/user-attachments/assets/5fc29559-cb43-4c82-83c7-741f7b6b4f3a" />)
 - Cloned the team repo.
