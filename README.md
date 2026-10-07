@@ -42,7 +42,7 @@ If you are on our team, follow these simple steps to copy this project to your c
 It is a programming language used to make websites interactive and dynamic. It allows developers to create dynamic content, control multimedia and build complex web applications.
 ### Why Learn JavaScript
   - Creates interactive websites
-  - Validate forms
+  - Validates forms
   - Create animations
   - Create games
   - Build web applications
@@ -147,9 +147,9 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 
 ## C++
 
-**C++** Is a general-purpose programming language known for its high performance, efficiency, and control over system resources. It allows developers to build operating systems, games, high-performance applications, and software that requires close interaction with hardware.
+**C++** is a general-purpose programming language known for its high performance, efficiency, and control over system resources. It allows developers to build operating systems, games, high-performance applications, and software that requires close interaction with hardware.
 
-### Why one Should Consider Learning C++
+### Why One Should Consider Learning C++
 - Develop high-performance applications.
 - Build game engines and graphics software.
 - Create system software and operating systems.
