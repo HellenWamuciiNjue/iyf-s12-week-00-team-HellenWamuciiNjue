@@ -61,7 +61,7 @@ It is a programming language used to make websites interactive and dynamic. It a
 
 ## Python
 
-**Python** is an open-source, high-level programming language that is widely loved by software developers for its clean layout and simple design rules. It was created to read almost like normal everyday English, which allows developers to focus on writing clean solutions instead of fighting complex code punctuation. Because it is highly versatile, easy to test, and runs seamlessly across Windows, Mac, and Linux systems, it is the perfect foundational language for beginners learning full-stack web engineering and computing logic.
+**Python** is an open-source, high-level programming language that is widely loved by software developers for its clean layout and simple design rules. It was created to read almost like normal everyday English, which allows developers to focus on writing clean solutions instead of fighting complex code syntax. Because it is highly versatile, easy to test, and runs seamlessly across Windows, Mac, and Linux systems, it is the perfect foundational language for beginners learning full-stack web engineering and computing logic.
 
 ### Why Students Should Use It
 - **Ultimate Readability:** Python drops messy brackets and uses clean line indentation, meaning your code looks neat and is far less frustrating to debug.
