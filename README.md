@@ -118,7 +118,7 @@ Java applications are usually compiled to bytecode that can run on any JVM regar
 
 ### Types of Java
 
-- Java SE (Standard Edition): Used for building desktop software, command-line tools and standalone applications
+- Java SE (Standard Edition): Used for building desktop software, command-line tools and standalone applications.
 - Java EE (Enterprise Edition / Jakarta EE): Used for E-commerce websites, banking software and massive corporate web networks.
 - Java ME (Micro Edition): Used for embedded systems, older mobile devices and Internet of Things (IoT) hardware. 
 - JavaFX: Used for high-performance desktop applications and interactive rich internet applications with sleek visual designs.
