@@ -21,7 +21,7 @@ Our group decided to build a simple knowledge base focused on a **Programming La
 - **Markdown:** The simple text styling language used to design this documentation.
 
 ## ✨ Project Rules & Features
-- **Working in Branches:** Nobody writes code directly on the `main` branch. We each create an isolated branch so we don't overwrite each other's work.
+- **Working in Branches:** Nobody writes code directly on the `main` branch. Each of us creates an isolated branch so we don't overwrite each other's work.
 - **Pull Requests (PRs):** When someone completes a section, they submit a request on GitHub so the rest of the team can review it before adding it to the final project.
 
 ## 💻 How Our Team Can Download & Run This Project
